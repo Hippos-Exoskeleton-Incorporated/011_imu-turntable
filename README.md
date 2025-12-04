@@ -12,3 +12,4 @@ Approximate Timeline
 <img width="1676" height="205" alt="image" src="https://github.com/user-attachments/assets/edeb5be1-190e-4a15-9876-c2f793c4f1dd" />
 
 
+Please note if you're using the Excel extension in VS Code to view the Bill of Materials, it doesn't show some of the currencies properly, thus not displaying the true price of some materials. We recommend you to download the file and open it on your machine directly (ideally MS Excel).
